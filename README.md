@@ -1,6 +1,6 @@
 # 🛡 GigShield — AI-Powered Parametric Income Insurance for Gig Workers
  
-**Guidewire DEVTrails 2026 | Team: [YOUR TEAM NAME]**
+**Guidewire DEVTrails 2026 | Team: GIGABIT**
  
 ## The Problem
 India's 12+ million platform-based delivery partners (Zomato, Swiggy) lose 20-30% of their
