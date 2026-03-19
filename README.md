@@ -1,4 +1,4 @@
-# 🛡 GigShield AI — Parametric Income Insurance for Gig Workers
+# GigShield AI — Parametric Income Insurance for Gig Workers
 
 **Guidewire DEVTrails 2026 · Team: GIGABIT**
 
@@ -18,7 +18,7 @@ GigShield is an AI-powered parametric insurance platform that:
 
 ---
 
-## 🚨 Phase 1 Challenge Response — Adversarial Defense & Anti-Spoofing Strategy
+## Phase 1 Challenge Response — Adversarial Defense & Anti-Spoofing Strategy
 
 > *"500 delivery partners. Fake GPS. Real payouts. A coordinated fraud ring just drained a platform's liquidity pool. Simple GPS verification is dead. How does GigShield fight back?"*
 
